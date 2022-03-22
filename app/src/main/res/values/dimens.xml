@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_bottom">40dp</dimen>
+    <dimen name="margin_top">300dp</dimen>
+    <dimen name="start_pacman_width">400dp</dimen>
+    <dimen name="start_pacman_height">3500dp</dimen>
+    <dimen name="finish_pacman_height">350dp</dimen>
+</resources>
